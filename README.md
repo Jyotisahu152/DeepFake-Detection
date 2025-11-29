@@ -72,7 +72,7 @@ ReduceLROnPlateau
 
 Performance metrics:
 
-Accuracy: ~82–90%
+Accuracy: 82%
 
 AUC Score: 0.90+
 
